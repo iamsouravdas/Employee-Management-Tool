@@ -1,0 +1,11 @@
+D:\PROJECTS\EmployeeMangementTool\server\src\EMS.Domain\bin\Debug\net9.0\EMS.Domain.deps.json
+D:\PROJECTS\EmployeeMangementTool\server\src\EMS.Domain\bin\Debug\net9.0\EMS.Domain.dll
+D:\PROJECTS\EmployeeMangementTool\server\src\EMS.Domain\bin\Debug\net9.0\EMS.Domain.pdb
+D:\PROJECTS\EmployeeMangementTool\server\src\EMS.Domain\obj\Debug\net9.0\EMS.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECTS\EmployeeMangementTool\server\src\EMS.Domain\obj\Debug\net9.0\EMS.Domain.AssemblyInfoInputs.cache
+D:\PROJECTS\EmployeeMangementTool\server\src\EMS.Domain\obj\Debug\net9.0\EMS.Domain.AssemblyInfo.cs
+D:\PROJECTS\EmployeeMangementTool\server\src\EMS.Domain\obj\Debug\net9.0\EMS.Domain.csproj.CoreCompileInputs.cache
+D:\PROJECTS\EmployeeMangementTool\server\src\EMS.Domain\obj\Debug\net9.0\EMS.Domain.dll
+D:\PROJECTS\EmployeeMangementTool\server\src\EMS.Domain\obj\Debug\net9.0\refint\EMS.Domain.dll
+D:\PROJECTS\EmployeeMangementTool\server\src\EMS.Domain\obj\Debug\net9.0\EMS.Domain.pdb
+D:\PROJECTS\EmployeeMangementTool\server\src\EMS.Domain\obj\Debug\net9.0\ref\EMS.Domain.dll

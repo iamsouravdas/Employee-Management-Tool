@@ -1,0 +1,15 @@
+D:\PROJECTS\EmployeeMangementTool\server\src\EMS.Application\bin\Debug\net9.0\EMS.Application.deps.json
+D:\PROJECTS\EmployeeMangementTool\server\src\EMS.Application\bin\Debug\net9.0\EMS.Application.dll
+D:\PROJECTS\EmployeeMangementTool\server\src\EMS.Application\bin\Debug\net9.0\EMS.Application.pdb
+D:\PROJECTS\EmployeeMangementTool\server\src\EMS.Application\bin\Debug\net9.0\EMS.Domain.dll
+D:\PROJECTS\EmployeeMangementTool\server\src\EMS.Application\bin\Debug\net9.0\EMS.Domain.pdb
+D:\PROJECTS\EmployeeMangementTool\server\src\EMS.Application\obj\Debug\net9.0\EMS.Application.csproj.AssemblyReference.cache
+D:\PROJECTS\EmployeeMangementTool\server\src\EMS.Application\obj\Debug\net9.0\EMS.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECTS\EmployeeMangementTool\server\src\EMS.Application\obj\Debug\net9.0\EMS.Application.AssemblyInfoInputs.cache
+D:\PROJECTS\EmployeeMangementTool\server\src\EMS.Application\obj\Debug\net9.0\EMS.Application.AssemblyInfo.cs
+D:\PROJECTS\EmployeeMangementTool\server\src\EMS.Application\obj\Debug\net9.0\EMS.Application.csproj.CoreCompileInputs.cache
+D:\PROJECTS\EmployeeMangementTool\server\src\EMS.Application\obj\Debug\net9.0\EMS.Appl.49CE4691.Up2Date
+D:\PROJECTS\EmployeeMangementTool\server\src\EMS.Application\obj\Debug\net9.0\EMS.Application.dll
+D:\PROJECTS\EmployeeMangementTool\server\src\EMS.Application\obj\Debug\net9.0\refint\EMS.Application.dll
+D:\PROJECTS\EmployeeMangementTool\server\src\EMS.Application\obj\Debug\net9.0\EMS.Application.pdb
+D:\PROJECTS\EmployeeMangementTool\server\src\EMS.Application\obj\Debug\net9.0\ref\EMS.Application.dll
