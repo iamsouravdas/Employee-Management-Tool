@@ -1,0 +1,211 @@
+.task-module {
+    font-family: 'Inter', sans-serif;
+    font-size: 14px;
+    max-width: 900px;
+    margin: 40px auto;
+    color: #333;
+}
+
+.task-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 15px;
+}
+
+.task-card {
+    background: #fff;
+    border: 1px solid #e0e0e0;
+    padding: 15px;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: box-shadow 0.2s;
+}
+
+.task-card:hover {
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+}
+
+.task-card h4 {
+    margin: 10px 0 5px 0;
+    font-size: 16px;
+}
+
+.task-meta {
+    font-size: 12px;
+    color: #666;
+}
+
+.task-badge {
+    display: inline-block;
+    padding: 3px 8px;
+    border-radius: 4px;
+    font-size: 11px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.task-badge.event {
+    background: #e8eaed;
+    color: #202124;
+}
+
+.task-badge.task {
+    background: #e6f4ea;
+    color: #137333;
+}
+
+/* Offcanvas Styles */
+.offcanvas-backdrop {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.4);
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 0.3s;
+    z-index: 1000;
+}
+
+.offcanvas-backdrop.show {
+    opacity: 1;
+    pointer-events: auto;
+}
+
+.offcanvas-panel {
+    position: fixed;
+    top: 0;
+    right: -450px;
+    width: 400px;
+    height: 100vh;
+    background: white;
+    box-shadow: -4px 0 15px rgba(0, 0, 0, 0.1);
+    transition: right 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    padding: 30px;
+    overflow-y: auto;
+    z-index: 1001;
+}
+
+.offcanvas-panel.open {
+    right: 0;
+}
+
+.btn-close-offcanvas {
+    background: #f1f3f4;
+    border: none;
+    padding: 8px 12px;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-bottom: 20px;
+}
+
+.offcanvas-meta {
+    margin: 20px 0;
+    padding: 15px;
+    background: #f8f9fa;
+    border-radius: 8px;
+    font-weight: 500;
+}
+
+.offcanvas-desc {
+    margin-top: 30px;
+    border-top: 1px solid #eee;
+    padding-top: 20px;
+}
+
+/* Calendar Modal Styles */
+.modal-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.6);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 2000;
+}
+
+.calendar-modal-content {
+    background: white;
+    width: 800px;
+    max-width: 95vw;
+    border-radius: 12px;
+    padding: 30px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+}
+
+.calendar-layout {
+    display: flex;
+    gap: 40px;
+    margin-top: 20px;
+}
+
+.calendar-grid-container {
+    flex: 1.5;
+}
+
+.calendar-form-container {
+    flex: 1;
+    display: flex;
+    flexDirection: column;
+    gap: 15px;
+}
+
+.calendar-grid {
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+    gap: 8px;
+    margin-top: 15px;
+}
+
+.calendar-day {
+    aspect-ratio: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 14px;
+    transition: 0.2s;
+}
+
+.calendar-day:hover {
+    background: #f1f3f4;
+}
+
+.calendar-day.selected {
+    background: #0b57d0;
+    color: white;
+    border-color: #0b57d0;
+    font-weight: bold;
+}
+
+.calendar-form-container input,
+.calendar-form-container select {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    margin-top: 5px;
+    margin-bottom: 15px;
+    box-sizing: border-box;
+}
+
+.modal-actions {
+    display: flex;
+    gap: 10px;
+    margin-top: auto;
+    justify-content: flex-end;
+}
+
+.btn-cancel {
+    background: transparent;
+    border: 1px solid #ccc;
+    padding: 8px 16px;
+    border-radius: 20px;
+    cursor: pointer;
+}

@@ -32,8 +32,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "D:\\PROJECTS\\EmployeeMangementTool\\server\\src\\EMS.domain\\EMS.domain.csproj": {
-                "projectPath": "D:\\PROJECTS\\EmployeeMangementTool\\server\\src\\EMS.domain\\EMS.domain.csproj"
+              "D:\\PROJECTS\\EmployeeMangementTool\\server\\src\\EMS.Domain\\EMS.Domain.csproj": {
+                "projectPath": "D:\\PROJECTS\\EmployeeMangementTool\\server\\src\\EMS.Domain\\EMS.Domain.csproj"
               }
             }
           }

@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PROJECTS\\EmployeeMangementTool\\server\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{87359833-2B39-4CAE-98B4-B356304CA34B}|src\\EMS.infrastructure\\EMS.infrastructure.csproj|d:\\projects\\employeemangementtool\\server\\src\\ems.infrastructure\\persistence\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87359833-2B39-4CAE-98B4-B356304CA34B}|src\\EMS.infrastructure\\EMS.infrastructure.csproj|solutionrelative:src\\ems.infrastructure\\persistence\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87359833-2B39-4CAE-98B4-B356304CA34B}|src\\EMS.infrastructure\\EMS.infrastructure.csproj|d:\\projects\\employeemangementtool\\server\\src\\ems.infrastructure\\persistence\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87359833-2B39-4CAE-98B4-B356304CA34B}|src\\EMS.infrastructure\\EMS.infrastructure.csproj|solutionrelative:src\\ems.infrastructure\\persistence\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51A71BF9-EB64-4FB8-8280-A7FD61913260}|src\\EMS.domain\\EMS.domain.csproj|d:\\projects\\employeemangementtool\\server\\src\\ems.domain\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51A71BF9-EB64-4FB8-8280-A7FD61913260}|src\\EMS.domain\\EMS.domain.csproj|solutionrelative:src\\ems.domain\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6008FF28-9EE1-48F3-9D4D-9595F00EDC72}|src\\EMS.Application\\EMS.Application.csproj|d:\\projects\\employeemangementtool\\server\\src\\ems.application\\dtos\\employee\\createemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6008FF28-9EE1-48F3-9D4D-9595F00EDC72}|src\\EMS.Application\\EMS.Application.csproj|solutionrelative:src\\ems.application\\dtos\\employee\\createemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6008FF28-9EE1-48F3-9D4D-9595F00EDC72}|src\\EMS.Application\\EMS.Application.csproj|d:\\projects\\employeemangementtool\\server\\src\\ems.application\\ems.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6008FF28-9EE1-48F3-9D4D-9595F00EDC72}|src\\EMS.Application\\EMS.Application.csproj|solutionrelative:src\\ems.application\\ems.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C513F4-3FD9-4713-8A91-58F48DCFC313}|src\\EMS.API\\EMS.API.csproj|d:\\projects\\employeemangementtool\\server\\src\\ems.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57C513F4-3FD9-4713-8A91-58F48DCFC313}|src\\EMS.API\\EMS.API.csproj|solutionrelative:src\\ems.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C513F4-3FD9-4713-8A91-58F48DCFC313}|src\\EMS.API\\EMS.API.csproj|d:\\projects\\employeemangementtool\\server\\src\\ems.api\\ems.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{57C513F4-3FD9-4713-8A91-58F48DCFC313}|src\\EMS.API\\EMS.API.csproj|solutionrelative:src\\ems.api\\ems.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "D:\\PROJECTS\\EmployeeMangementTool\\server\\src\\EMS.Infrastructure\\Persistence\\Repository.cs",
+              "RelativeDocumentMoniker": "src\\EMS.Infrastructure\\Persistence\\Repository.cs",
+              "ToolTip": "D:\\PROJECTS\\EmployeeMangementTool\\server\\src\\EMS.Infrastructure\\Persistence\\Repository.cs",
+              "RelativeToolTip": "src\\EMS.Infrastructure\\Persistence\\Repository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T20:08:38.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\PROJECTS\\EmployeeMangementTool\\server\\src\\EMS.Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "src\\EMS.Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\PROJECTS\\EmployeeMangementTool\\server\\src\\EMS.Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "RelativeToolTip": "src\\EMS.Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T20:08:35.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\PROJECTS\\EmployeeMangementTool\\server\\src\\EMS.Domain\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "src\\EMS.Domain\\Models\\Employee.cs",
+              "ToolTip": "D:\\PROJECTS\\EmployeeMangementTool\\server\\src\\EMS.Domain\\Models\\Employee.cs",
+              "RelativeToolTip": "src\\EMS.Domain\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T20:08:27.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateEmployeeDto.cs",
+              "DocumentMoniker": "D:\\PROJECTS\\EmployeeMangementTool\\server\\src\\EMS.Application\\DTOs\\Employee\\CreateEmployeeDto.cs",
+              "RelativeDocumentMoniker": "src\\EMS.Application\\DTOs\\Employee\\CreateEmployeeDto.cs",
+              "ToolTip": "D:\\PROJECTS\\EmployeeMangementTool\\server\\src\\EMS.Application\\DTOs\\Employee\\CreateEmployeeDto.cs",
+              "RelativeToolTip": "src\\EMS.Application\\DTOs\\Employee\\CreateEmployeeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T18:37:00.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EMS.Application.csproj",
+              "DocumentMoniker": "D:\\PROJECTS\\EmployeeMangementTool\\server\\src\\EMS.Application\\EMS.Application.csproj",
+              "RelativeDocumentMoniker": "src\\EMS.Application\\EMS.Application.csproj",
+              "ToolTip": "D:\\PROJECTS\\EmployeeMangementTool\\server\\src\\EMS.Application\\EMS.Application.csproj",
+              "RelativeToolTip": "src\\EMS.Application\\EMS.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-04T18:36:54.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PROJECTS\\EmployeeMangementTool\\server\\src\\EMS.API\\Program.cs",
+              "RelativeDocumentMoniker": "src\\EMS.API\\Program.cs",
+              "ToolTip": "D:\\PROJECTS\\EmployeeMangementTool\\server\\src\\EMS.API\\Program.cs",
+              "RelativeToolTip": "src\\EMS.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T18:36:47.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EMS.API.csproj",
+              "DocumentMoniker": "D:\\PROJECTS\\EmployeeMangementTool\\server\\src\\EMS.API\\EMS.API.csproj",
+              "RelativeDocumentMoniker": "src\\EMS.API\\EMS.API.csproj",
+              "ToolTip": "D:\\PROJECTS\\EmployeeMangementTool\\server\\src\\EMS.API\\EMS.API.csproj",
+              "RelativeToolTip": "src\\EMS.API\\EMS.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-04T18:36:40.968Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

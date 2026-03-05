@@ -1,0 +1,155 @@
+.email-module {
+    font-family: 'Inter', sans-serif;
+    font-size: 13px;
+    color: #333;
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+.dashboard-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 15px;
+}
+
+.btn-primary {
+    background: #0b57d0;
+    color: white;
+    border: none;
+    padding: 8px 16px;
+    border-radius: 20px;
+    cursor: pointer;
+    font-weight: 500;
+}
+
+.btn-primary:hover {
+    background: #0842a0;
+}
+
+.email-split-container {
+    display: flex;
+    height: 500px;
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+    overflow: hidden;
+    background: #fff;
+}
+
+.email-list-pane {
+    flex: 1;
+    overflow-y: auto;
+    transition: all 0.3s ease;
+}
+
+.email-list-pane.shrunk {
+    flex: 0 0 40%;
+    border-right: 1px solid #e0e0e0;
+    background: #f8f9fa;
+}
+
+.email-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.email-item {
+    display: flex;
+    gap: 12px;
+    padding: 12px;
+    border-bottom: 1px solid #f0f0f0;
+    cursor: pointer;
+}
+
+.email-item:hover {
+    background: #f1f3f4;
+}
+
+.email-item.active {
+    background: #e8f0fe;
+}
+
+.email-avatar {
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.email-summary {
+    flex: 1;
+    overflow: hidden;
+}
+
+.email-subject-row {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 4px;
+}
+
+.email-subject {
+    font-weight: 600;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.email-time {
+    color: #888;
+    font-size: 11px;
+}
+
+/* The Inline Details Pane */
+.email-detail-pane {
+    flex: 0 0 60%;
+    padding: 20px;
+    overflow-y: auto;
+    animation: slideIn 0.3s forwards;
+}
+
+.detail-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    border-bottom: 1px solid #eee;
+    padding-bottom: 15px;
+    margin-bottom: 15px;
+}
+
+.detail-header h3 {
+    margin: 0;
+    font-size: 18px;
+}
+
+.btn-icon {
+    background: none;
+    border: none;
+    font-size: 16px;
+    cursor: pointer;
+    color: #888;
+}
+
+.detail-meta {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 20px;
+    align-items: center;
+}
+
+.detail-body {
+    font-size: 14px;
+    line-height: 1.6;
+}
+
+@keyframes slideIn {
+    from {
+        transform: translateX(20px);
+        opacity: 0;
+    }
+
+    to {
+        transform: translateX(0);
+        opacity: 1;
+    }
+}
